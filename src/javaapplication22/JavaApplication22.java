@@ -18,6 +18,11 @@ public class JavaApplication22 {
          System.out.println("Hello worldsdfdsfdsdf");
          System.out.println("Hello worldsfdsd");
          System.out.println("Hello worldfdsdf");
+          System.out.println("Hello world");
+         System.out.println("Hello worldsdfdsfdsdf");
+         System.out.println("Hello worldsfdsd");
+         System.out.println("Hello worldfdsdf");
+         
          
     }
     
