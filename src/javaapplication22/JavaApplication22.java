@@ -15,6 +15,10 @@ public class JavaApplication22 {
      */
     public static void main(String[] args) {
         System.out.println("Hello world");
+         System.out.println("Hello worldsdfdsfdsdf");
+         System.out.println("Hello worldsfdsd");
+         System.out.println("Hello worldfdsdf");
+         
     }
     
 }
